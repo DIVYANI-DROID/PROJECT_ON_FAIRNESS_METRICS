@@ -1,0 +1,2 @@
+# PROJECT_ON_FAIRNESS_METRICS
+Redistricting fairness metrics:  A number of redistricting fairness metrics have been studied, such as the efficiency gap, partisan bias, and mean-median metrics [18,29].  Metrics have made their way into legal writings [22] and amicus briefs for Supreme Court cases [23].  A typical workflow is to create a reference statistical distribution based on a fairness metric and an existing or proposed redistricting plan, to estimate whether or not the plan is an outlier with respect to nearby variations of the plan..
